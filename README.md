@@ -1,4 +1,7 @@
 # WP Company Employee Data Analysis
-![](HR.JPG)
+
+![](./images/HR.jpg)
+
+
 
 
