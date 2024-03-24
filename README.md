@@ -1,5 +1,5 @@
 # WP Company Employee Data Analysis
-![HR](https://github.com/moakwarandu/moakwarandu-Employee-Data-Analysis-with-Tableau-Desktop/assets/47811700/9c7af445-52fd-4f65-a888-b703d286b119)
+
 
 ## Introduction
 This project aims to analyze a dataset containing employee information, potentially for a Human Resources department.  By understanding the data, the HR department can gain insights into employee demographics, work tenure, and other factors that might influence human resource decisions.
