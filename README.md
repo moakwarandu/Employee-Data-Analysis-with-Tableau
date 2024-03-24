@@ -46,7 +46,7 @@ No complex modeling is required for this basic visualization project.
 ## Analysis and Visualization
 We use Tableau Desktop to connect to the data and create visualizations to explore different aspects of the employee data. Here are the visualizations:
 
-![](WP company employee payroll.jpg)
+
 
 - Number of Employees by Department: A bar chart can show the number of employees in each department. This can help identify which departments have the most or least staff.
 
