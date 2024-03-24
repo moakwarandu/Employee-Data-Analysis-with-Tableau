@@ -1,5 +1,6 @@
 # WP Company Employee Data Analysis
 
+![](HR.jpg)
 
 ## Introduction
 This project aims to analyze a dataset containing employee information, potentially for a Human Resources department.  By understanding the data, the HR department can gain insights into employee demographics, work tenure, and other factors that might influence human resource decisions.
