@@ -12,10 +12,22 @@ This project aims to analyze a dataset containing employee information, potentia
    
 
 ## Skills Demonstrated
-- Data Analysis With Tableau: Understanding and exploring the provided dataset.
-- Data Transformation: Cleaning and shaping the data for Tableau.
-- Data Visualization: Creating charts and graphs to represent the data visually.
-- Tableau Desktop: Using Tableau to create interactive visualizations.
+- Businesss Understanding
+- Client Communication
+- Effective Communication
+- Visualisation
+- Data Analysis
+- Data Interpretation
+- Data Visualisation
+- Charts & Graphs
+- Creativity
+- Visual Basics
+- Dashboard
+- Data Cleanup
+- Analysis & Presentation
+- Analytics & Insights
+- Exploratoey Data Analysis
+
 
 ## Data Sourcing
 The data for this project is a simple table containing employee information, including:
